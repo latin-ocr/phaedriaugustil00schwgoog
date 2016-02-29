@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./phaedriaugustil00schwgoog_0289.png"; bbox 0 0 3192 4967; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 486 1876 1000 1995">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 486 1876 1000 1995">
+     <span class='ocr_line' id='line_1_1' title="bbox 486 1876 1000 1995; baseline 0.006 -2"><span class='ocrx_word' id='word_1_1' title='bbox 486 1876 1000 1995; x_wconf 88' lang='lat' dir='ltr'><strong>APPENDIX</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 197 2187 1293 2291">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 197 2187 1293 2291">
+     <span class='ocr_line' id='line_1_2' title="bbox 197 2187 1293 2291; baseline 0.003 -7"><span class='ocrx_word' id='word_1_2' title='bbox 197 2187 715 2291; x_wconf 83' lang='lat' dir='ltr'><strong>FABULARUM</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 778 2196 1293 2291; x_wconf 83' lang='lat' dir='ltr'>AESOPIARUM</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 649 2488 1037 2593">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 649 2488 1037 2593">
+     <span class='ocr_line' id='line_1_3' title="bbox 649 2488 1037 2593; baseline 0 0"><span class='ocrx_word' id='word_1_4' title='bbox 649 2503 852 2593; x_wconf 81' lang='lat' dir='ltr'><strong>xxxlv.</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1030 2488 1037 2503; x_wconf 86' lang='lat'>&#39;</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 246 2772 1246 2947">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 246 2772 1246 2947">
+     <span class='ocr_line' id='line_1_4' title="bbox 246 2772 1246 2848; baseline -0.001 -16"><span class='ocrx_word' id='word_1_6' title='bbox 246 2782 273 2832; x_wconf 69' lang='lat'>2</span> <span class='ocrx_word' id='word_1_7' title='bbox 289 2777 365 2832; x_wconf 74' lang='lat' dir='ltr'><strong>MSS.</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 385 2772 613 2847; x_wconf 73' lang='lat' dir='ltr'>DIVIONENSI,</span> <span class='ocrx_word' id='word_1_9' title='bbox 629 2778 822 2833; x_wconf 77' lang='lat' dir='ltr'><strong>ANONYMO</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 837 2782 882 2833; x_wconf 81' lang='lat' dir='ltr'><strong>ET</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 897 2782 1053 2834; x_wconf 84' lang='lat' dir='ltr'>ROMULO</span> <span class='ocrx_word' id='word_1_12' title='bbox 1070 2781 1246 2848; x_wconf 71' lang='lat' dir='ltr'>NILANTn,</span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 658 2892 832 2947; baseline 0.006 -2"><span class='ocrx_word' id='word_1_13' title='bbox 658 2894 703 2945; x_wconf 80' lang='grc' dir='ltr'><strong>ΕΤ</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 723 2892 832 2947; x_wconf 79' lang='lat' dir='ltr'><strong>ALIIS.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 1600 4967">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 1600 4967">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 1600 4967; baseline 0 0"><span class='ocrx_word' id='word_1_15' title='bbox 0 0 1600 4967; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
